@@ -130,12 +130,16 @@ Two types of audio were selected for this experiment:
   - More descriptive prompts lead to more accurate and refined outputs.
   - Bark is particularly strong for character voices and narrative delivery.
 
----
+## output:
+### Text:
+The sky turned a deep orange as the sun dipped below the hills. Birds returned to their nests, and a soft breeze carried the scent of rain. In that quiet moment, everything felt still. It was peace—not in silence, but in simplicity.
+### audio:
+https://drive.google.com/file/d/15HK5hDKtcdEQCi92c43uy5eaT2fb8yqq/view?usp=sharing
+
 
 ## Result:  
 The audio generation process using prompting techniques was completed successfully. By iteratively refining the prompts and using suitable AI models (MusicGen and Bark), we were able to generate high-quality music and speech outputs. This exercise highlighted the power of prompt engineering in influencing AI-generated audio content.
 
-https://drive.google.com/file/d/19qkmDGH_h50p0yWR7U4Xgs6Wpy79WtWL/view?usp=sharing
 ---
 
 ## References:
