@@ -135,6 +135,7 @@ Two types of audio were selected for this experiment:
 ## Result:  
 The audio generation process using prompting techniques was completed successfully. By iteratively refining the prompts and using suitable AI models (MusicGen and Bark), we were able to generate high-quality music and speech outputs. This exercise highlighted the power of prompt engineering in influencing AI-generated audio content.
 
+https://drive.google.com/file/d/19qkmDGH_h50p0yWR7U4Xgs6Wpy79WtWL/view?usp=sharing
 ---
 
 ## References:
